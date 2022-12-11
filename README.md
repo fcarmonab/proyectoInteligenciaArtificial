@@ -2,7 +2,9 @@ Proyecto Inteligencia Artificial
 Alumnos:
 
 FLAVIO ALEXANDER CARMONA BUESO   	259051138
+
 MILTON JESUS GARCIA GARCIA		    202010010296
+
 SHARON VANESSA ESPINOZA CALDERON	201820010377
 
 La ubicacion de los archivos contenidos en el presente deben ser ubicados segun se especifica a continuacion:
