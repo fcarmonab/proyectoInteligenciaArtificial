@@ -10,7 +10,9 @@ SHARON VANESSA ESPINOZA CALDERON	201820010377
 La ubicacion de los archivos contenidos en el presente deben ser ubicados segun se especifica a continuacion:
 
 html en /var/www/html
+
 homePI en /home/pi/
+
 cron en /etc/cron.d/
 
 Con el presente aplicativo podra realizar lo siguiente:
