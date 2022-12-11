@@ -1,0 +1,1 @@
+26 17 * * * root /home/pi/enviar_email.sh
